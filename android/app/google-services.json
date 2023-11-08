@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "136800098805",
+    "project_id": "calculator-app-357b0",
+    "storage_bucket": "calculator-app-357b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136800098805:android:1f887e7d0952cce83e28bc",
+        "android_client_info": {
+          "package_name": "com.xm.calculator_vault_app21"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWTQaSnfQb1ROimGrGzWN5_dCR9mGMqoo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
